@@ -1,6 +1,6 @@
 # Numerical-Simulation-for-Anchor-Testing-Model-Design-and-Analysis
 
-![Anchor Testing Model - Overview Image Placeholder](./images/overview_placeholder.png)
+![Anchor Testing Model - Overview Image Placeholder](./images/vessel_anchor.png)
 
 ## Table of Contents
 - [Project Overview](#project-overview)
