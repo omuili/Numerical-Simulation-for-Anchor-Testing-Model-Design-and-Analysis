@@ -17,7 +17,7 @@
 
 ## Project Overview
 
-The Anchor Testing Numerical Model is a comprehensive physics-based simulation system designed to evaluate anchor performance in marine environments before physical deployment. This computational model simulates the complex interaction between anchors and different types of seabeds under various environmental conditions.
+The Numerical Simulation for Anchor Testing Model Design and Analysis is a comprehensive physics-based simulation system designed to evaluate anchor performance in marine environments before physical deployment. This computational model simulates the complex interaction between anchors and different types of seabeds under various environmental conditions.
 
 ![System Diagram Placeholder](./images/system_diagram_placeholder.png)
 
